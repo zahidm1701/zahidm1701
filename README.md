@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zahidm1701
-- 👀 I’m interested in learning to make software.
+- 👀 I’m interested in learning new languages. 
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ...
 
