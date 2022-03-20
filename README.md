@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahidm1701
+- 👋 Hi, I’m @zahid
 - 👀 I’m interested in learning new languages. 
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ...
